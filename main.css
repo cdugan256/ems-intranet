@@ -4,8 +4,11 @@ body {
 
 h1 {
     color: gray;
+    text-align: center;
+    padding-top: 7em;
 }
 
 p {
     color: white;
+    text-align: center;
 }
